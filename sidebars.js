@@ -9,7 +9,7 @@
 
 module.exports = {
   someSidebar: {
-    Introduction: ['doc1', 'introduction/introduction'],
+    Basics: ['doc1', 'basics/introduction'],
     Features: ['mdx'],
   },
 };
