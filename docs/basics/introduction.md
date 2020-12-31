@@ -63,7 +63,7 @@ using **yarn**
 
 [See&Edit On Sandbox](https://codesandbox.io/s/lingering-fast-14bp5?file=/src/App.js)
 
-you may say this form is ugly, and yes it's ugly but keep in mind this library is the core library and because it's
+you may say this form is ugly, and yes it's ugly but keep in mind this library is the core and because it's
 customizable, there are many sibling packages improve what you need like rendering you will see the current available
 options later.
 

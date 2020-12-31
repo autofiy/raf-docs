@@ -8,20 +8,20 @@
  */
 
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
+  title: 'RafCore',
+  tagline: 'React Auto Form',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Autofiy', // Usually your GitHub org/user name.
+  projectName: '@Autofiy/RafCore', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Facebook Project',
+      title: 'RafCore',
       logo: {
-        alt: 'My Facebook Project Logo',
+        alt: 'React Auto Form',
         src: 'img/logo.svg',
       },
       items: [
@@ -34,7 +34,7 @@ module.exports = {
         {to: 'blog', label: 'Blog', position: 'left'},
         // Please keep GitHub link to the right for consistency.
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/autofiy/raf-core',
           label: 'GitHub',
           position: 'right',
         },
