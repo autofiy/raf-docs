@@ -1,7 +1,7 @@
 ---
 id : field
 
-title : Field
+title : Field Configuration
 ---
 
 in this page we will talk about the configuration of the field.
@@ -175,10 +175,7 @@ of them are set to default values that fit the most use cases, but they are thei
 if you need to change, you will change from event listener of some other callback functions, later we will see how to
 change the options.
 
-
-
 ### Options Summary
-
 
     {
 
